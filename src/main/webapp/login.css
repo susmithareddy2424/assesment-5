@@ -1,0 +1,7 @@
+@charset "ISO-8859-1";
+.bg-container{
+	background-image:linear-gradient(to right, red,orange,yellow,green,violet);
+	align-items:center;
+	display:flex;
+	height:100vh;
+}
